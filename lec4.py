@@ -23,8 +23,13 @@ my_car = {
 # print(my_car.get('year'))
 
 my_car['model'] = 'Corolla'
+
 print(my_car)
+
 my_car['year'] = '2020'
+
 print(my_car)
+
 print(len(my_car))
+
 print('red' in my_car)
