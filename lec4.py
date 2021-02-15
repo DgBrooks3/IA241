@@ -1,0 +1,30 @@
+# Lecture 4 Dict and Tuple
+
+# my_tuple = 'a', 'b', 'c', 'd', 'e'
+# print(my_tuple)
+
+# my_second_tuple = ('a', 'b', 'c', 'd', 'e')
+# print(my_second_tuple)
+
+# not_a_tuple = 'a'
+# print(type(not_a_tuple))
+
+# is_a_tuple = ('a',)
+# print(type(is_a_tuple))
+
+# print(my_tuple[:])
+
+my_car = {
+            'color' : 'red',
+            'maker' : 'toyota',
+            'year' : 2015
+         }
+# print(my_car['year'])
+# print(my_car.get('year'))
+
+my_car['model'] = 'Corolla'
+print(my_car)
+my_car['year'] = '2020'
+print(my_car)
+print(len(my_car))
+print('red' in my_car)
