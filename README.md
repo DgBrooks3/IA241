@@ -24,3 +24,5 @@ IA241 Projects (To be shared)
 * item1
 * item2
 * item3
+
+[lab1](https://github.com/DgBrooks3/IA241/blob/main/lab1.py)
