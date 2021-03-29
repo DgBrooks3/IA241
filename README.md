@@ -12,5 +12,7 @@ IA241 Projects (To be shared)
  
  ### Level Three Heading
 **bold**
+
 *italicize*
+
 > quote
