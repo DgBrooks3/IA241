@@ -16,3 +16,11 @@ IA241 Projects (To be shared)
 *italicize*
 
 > quote
+
+1. item1
+2. item2
+3. item3
+
+* item1
+* item2
+* item3
